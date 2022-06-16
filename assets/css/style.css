@@ -40,3 +40,13 @@ body {
 	
 	
 }
+
+.nav li {
+
+	float: right;
+	list-style-type: none;	
+	margin-right: 6em;
+
+	
+	
+}
