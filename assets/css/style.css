@@ -96,6 +96,21 @@ body {
 	
 }
 
+#main_middle {
+
+	margin: 30px;
+	padding: 30px;
+	border: 30px;
+	background-color: #e6e18f;
+	border-radius: 10%;
+	font-size: 160%;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-weight: 900;
+	text-align: center;
+	order: 3;
+
+}
+
 
 #mandela_quote {
 
