@@ -51,6 +51,13 @@ body {
 	
 }
 
+.nav li:hover {
+
+	font-size: 170%;
+	text-decoration-line: underline;
+
+}
+
 .mandela {
 	
 	width: 400px;
