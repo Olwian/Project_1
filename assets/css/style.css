@@ -50,3 +50,16 @@ body {
 	
 	
 }
+
+.mandela {
+	
+	width: 400px;
+	height: 600px;
+	border-radius: 50%;
+	margin: 10px 30px 10px 30px;
+	padding: 10px 30px 10px 30px;
+	border: 10px 30px 10px 30px;
+	order: 1;
+	opacity: 0.4;
+	
+}
