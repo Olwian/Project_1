@@ -111,6 +111,12 @@ body {
 
 }
 
+#main_middle h3 {
+
+	text-decoration-line: underline;
+
+}
+
 #main_right {
 
 	margin: 30px;
