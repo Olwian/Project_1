@@ -79,3 +79,22 @@ body {
 	opacity: 0.4;
 	
 }
+
+
+#mandela_quote {
+
+  font-size: 140%;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 900;
+  margin: 30px;
+  padding: 30px;
+  border: 30px;
+  background-color: #EADDA6;
+  border-radius: 50%;
+  text-align: center;
+  display: inline-flex;
+  flex-direction: row;
+  align-items: center;
+  
+
+}
