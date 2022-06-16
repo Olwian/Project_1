@@ -58,6 +58,15 @@ body {
 
 }
 
+#main {
+
+	display: inline-flex;
+	flex-direction: row;
+	align-items: center;
+	
+	
+  }	
+
 .mandela {
 	
 	width: 400px;
